@@ -1,4 +1,4 @@
-# Hi, I'm Bill Li (yyu0310)
+# Hi, This is Bill Li (yyu0310)
 
 I trade stocks and prediction markets. The repos here are tools I built to automate my research workflow and the daily-life chores I got tired of doing by hand. Most of them started as a script for myself.
 
