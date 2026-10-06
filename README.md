@@ -2,22 +2,35 @@
 
 I trade stocks and prediction markets. The repos here are tools I built to automate my research workflow and the daily-life chores I got tired of doing by hand. Most of them started as a script for myself.
 
+<img src="assets/stack.svg" alt="Python, JavaScript, HTML, Bash, SQLite, macOS, Google Cloud, GitHub Actions, Markdown" height="40">
+
+<p>
+  <img src="profile/stats.svg" alt="GitHub stats" height="165">
+  <img src="profile/top-langs.svg" alt="Most used languages" height="165">
+</p>
+
 ## Claude Code workflow
 
-- [cc-to-antigravity-cli-bridge](https://github.com/yyu0310/cc-to-antigravity-cli-bridge): drive Google's Antigravity CLI from Claude Code with a shared system prompt
-- [cc-to-grok-bridge](https://github.com/yyu0310/cc-to-grok-bridge): share rules, skills and hook gates between Claude Code and Grok Build
-- [claude-code-security-starter](https://github.com/yyu0310/claude-code-security-starter): CLAUDE.md rules and hooks that block credential leaks before they happen
-- [geek-on-autopilot](https://github.com/yyu0310/geek-on-autopilot): slash commands I use to run daily life on autopilot
+<p>
+  <a href="https://github.com/yyu0310/cc-to-antigravity-cli-bridge"><img src="profile/pin-cc-to-antigravity-cli-bridge.svg" alt="cc-to-antigravity-cli-bridge" width="49%"></a>
+  <a href="https://github.com/yyu0310/cc-to-grok-bridge"><img src="profile/pin-cc-to-grok-bridge.svg" alt="cc-to-grok-bridge" width="49%"></a>
+  <a href="https://github.com/yyu0310/claude-code-security-starter"><img src="profile/pin-claude-code-security-starter.svg" alt="claude-code-security-starter" width="49%"></a>
+  <a href="https://github.com/yyu0310/geek-on-autopilot"><img src="profile/pin-geek-on-autopilot.svg" alt="geek-on-autopilot" width="49%"></a>
+</p>
 
 ## Markets and data
 
-- [always-free-macro-calendar](https://github.com/yyu0310/always-free-macro-calendar): FOMC, CPI, NFP and other central bank events in Google Calendar, no paid APIs
-- [stg-premium-chart](https://github.com/yyu0310/stg-premium-chart): premium, settlement price and futures positioning charts from Binance public data
+<p>
+  <a href="https://github.com/yyu0310/always-free-macro-calendar"><img src="profile/pin-always-free-macro-calendar.svg" alt="always-free-macro-calendar" width="49%"></a>
+  <a href="https://github.com/yyu0310/stg-premium-chart"><img src="profile/pin-stg-premium-chart.svg" alt="stg-premium-chart" width="49%"></a>
+</p>
 
 ## Privacy and personal data
 
-- [heptabase-local-sync-security](https://github.com/yyu0310/heptabase-local-sync-security): sync Heptabase to Markdown with an allow-list, so only the cards you pick get exported
-- [build-your-own-spotify-listening-dna](https://github.com/yyu0310/build-your-own-spotify-listening-dna): analyze your own listening history with Essentia
+<p>
+  <a href="https://github.com/yyu0310/heptabase-local-sync-security"><img src="profile/pin-heptabase-local-sync-security.svg" alt="heptabase-local-sync-security" width="49%"></a>
+  <a href="https://github.com/yyu0310/build-your-own-spotify-listening-dna"><img src="profile/pin-build-your-own-spotify-listening-dna.svg" alt="build-your-own-spotify-listening-dna" width="49%"></a>
+</p>
 
 ## Elsewhere
 
